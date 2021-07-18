@@ -1,0 +1,4 @@
+rootProject.name = "TestPlugin"
+include ':app'
+include ':plugincore'
+include ':appplugin'
